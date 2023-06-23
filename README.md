@@ -1,6 +1,6 @@
 # Saulo's GitHub Profile
 
-Welcome to my GitHub profile! I'm passionate about software development and enjoy working on various projects. This README provides an overview of my skills, projects, and contributions. Feel free to explore my repositories and get in touch if you have any questions or collaboration opportunities.
+Welcome to my GitHub profile! I'm passionate about software development and enjoy working on various projects. Feel free to explore my repositories and get in touch if you have any questions or collaboration opportunities.
 
 ## About Me
 
