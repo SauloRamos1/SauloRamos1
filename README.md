@@ -4,7 +4,10 @@ Welcome to my GitHub profile! I'm passionate about software development and enjo
 
 ## Skills
 
-- Programming Languages: C++, Python, JavaScript
+- Expert: C++, Qt/QML, Shell Script, Latex, Qt Creator, MeshLab
+- Proficient: Python, OpenGL, JavaScript, C, Java, HTML, CSS, Blender, SolidWorks, VSCode/IntelliJ
+- Novice: R, Flutter, React Native
+  
 - Technologies and Libraries: Qt/QML, Libigl, Boost, Eigen, CGAL
 - Version Control: Git, GitHub, BitBucket, GitLab
 
