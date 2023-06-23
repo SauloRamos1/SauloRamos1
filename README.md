@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm passionate about software development and enjo
 ## Skills
 
 - Programming Languages: C++, Python, JavaScript
-- Technologies and Libraries: Qt, Libigl, Boost, Eigen, CGAL
+- Technologies and Libraries: Qt/QML, Libigl, Boost, Eigen, CGAL
 - Version Control: Git, GitHub, BitBucket, GitLab
 
 ## About Me
