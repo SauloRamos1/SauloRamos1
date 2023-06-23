@@ -20,6 +20,6 @@ B.Tech in Electronics with emphasis in Industrial Automation from the College of
 
 ## Contact
 
-I'm always open to new opportunities and collaborations. Feel free to reach out to me via email at [srdcp@hotmail.com](mailto:srdcp@hotmail.com) or connect with me on [LinkedIn]([https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/saulo-ramos-8baa66104/)).
+I'm always open to new opportunities and collaborations. Feel free to reach out to me via email at [srdcp@hotmail.com](mailto:srdcp@hotmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/saulo-ramos-8baa66104/)
 
 Thank you for visiting my GitHub profile! I look forward to connecting with fellow developers and contributing to exciting projects.
