@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm passionate about software development and enjo
 
 ## About Me
 
-I am a dedicated and experienced C++ developer with a strong foundation in software engineering principles. I have a passion for creating efficient and reliable applications that solve real-world problems. I have been working with C++, Qt, and QML/JavaScript development since 2016, in domains such as robotics and industrial automation with applied artificial intelligence, interactive technologies for education, 3D modeling, sketch-based interfaces, ERP systems, and computer graphics.
+I am a dedicated and experienced developer with a strong foundation in software engineering principles. I have a passion for creating efficient and reliable applications that solve real-world problems. I have been working with C++, Qt, and QML/JavaScript development since 2016, in domains such as robotics and industrial automation with applied artificial intelligence, interactive technologies for education, 3D modeling, sketch-based interfaces, ERP systems, and computer graphics.
 
 Ph.D. in Computer Science (2020) from Federal University of ABC (UFABC).
 MSc. in Information Engineering (2015) from Federal University of ABC (UFABC). 
